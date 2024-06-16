@@ -11,7 +11,7 @@ Open Chrome Developer Tools:
 Right-click on any web page and select "Inspect" or press Ctrl+Shift+I (Windows) or Cmd+Opt+I (Mac).
 Go to the Console Tab.
 
-***** Run the Following Script that is given *****
+** **Run the Following Script that is given** **
 
 **2. How It Works**
 
@@ -20,6 +20,7 @@ blur event: This event is triggered when the window loses focus (e.g., when you 
 focus event: This event is triggered when the window gains focus.
 
 **3. Test the Functionality**
+
 Open a YouTube video.
 Switch to another tab or application; the video should pause.
 Switch back to the YouTube tab; the video should resume playing.
